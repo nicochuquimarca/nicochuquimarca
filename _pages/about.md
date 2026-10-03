@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Inter-American Development Bank, Washington D.C., U.S.A.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 0.8em;">Inter-American Development Bank</p>
-    <p style="font-size: 0.8em;">1300 New York Avenue NW</p>
-    <p style="font-size: 0.8em;">Washington D.C., United States</p>
+    <p style="font-size: 0.8em;">Inter-American Development Bank (IDB)</p>
+    <p style="font-size: 0.8em;">1300 New York Ave NW Washington DC, United States</p>
+    <p style="font-size: 0.8em;">Personal Email: <a href="mailto:spo2111@tc.columbia.edu">spo2111@tc.columbia.edu</a></p>
+    <p style="font-size: 0.8em;">Institutional Email: <a href="mailto:nicolasch@iadb.org">nicolasch@iadb.org</a></p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
