@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p style="font-size: 0.8em;">Inter-American Development Bank (IDB)</p>
     <p style="font-size: 0.8em;">1300 New York Ave NW Washington DC, United States</p>
-    <p style="font-size: 0.8em;">Personal Email: <a href="mailto:spo2111@tc.columbia.edu">spo2111@tc.columbia.edu</a></p>
+    <p style="font-size: 0.8em;">Personal Email: <a href="mailto:nicoc991@hotmail.com">nicoc991@hotmail.com</a></p>
     <p style="font-size: 0.8em;">Institutional Email: <a href="mailto:nicolasch@iadb.org">nicolasch@iadb.org</a></p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
