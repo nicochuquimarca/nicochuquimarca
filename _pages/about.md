@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpeg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-size: 0.8em;">Inter-American Development Bank (IDB)</p>
