@@ -26,7 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an applied microeconomist with interest in Labor, Public and Development Economics. 
+Hello, I’m a Predoctoral Research Fellow at the Inter-American Development Bank (IDB). I am interested in labor, public, and development economics.
+
+I hold an M.Sc. in Economics from Queen Mary University of London, and an M.A. and a B.A. in Economics from Universidad San Francisco de Quito.
+
+Before joining the bank, I worked as an external research consultant for the IDB’s Ecuador country office and as a financial analyst in the Finance Department at Universidad San Francisco de Quito.
 
 You can find my CV [here]({{ '/assets/pdf/cv.pdf' | relative_url }}).
 
