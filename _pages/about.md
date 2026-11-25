@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I’m a Predoctoral Research Fellow at the Inter-American Development Bank (IDB). I am interested in labor, public, and development economics.
+Hello, I’m a Predoctoral Research Fellow at the Inter-American Development Bank (IDB). I am interested in labor economics, public economics, and industrial organization.
 
 I hold an M.Sc. in Economics from Queen Mary University of London, and an M.A. and a B.A. in Economics from Universidad San Francisco de Quito.
 
